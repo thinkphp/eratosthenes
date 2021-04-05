@@ -2,5 +2,6 @@
 
 
 in action https://ideone.com/thinkphp/eratosthene 
-* Python 3 https://ideone.com/iAYm68
+[x] Python 3 https://ideone.com/iAYm68
+[x] https://infoarena.ro/job_detail/2728398?action=view-source
 
